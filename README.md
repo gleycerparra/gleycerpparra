@@ -2,9 +2,9 @@
 
 ## I'm a Developer currently learning about... everything 🤣!!
 
-- 👯 I’m looking to collaborate with open source projects about Javascript, Typescript, Angular
-- 🥅 2020 Goals: Improve my English, contribute to open source projects, improve my Javascript skills 😀
-- ⚡ Fun fact: I like to play videogames like Valorant, CS GO.
+- 👯 I’m looking to collaborate with open source projects about Javascript, Typescript, Angular, Node.js
+- 🥅 2022 Goals: Improve my English, contribute to open source projects, improve my Javascript skills 😀
+- ⚡ Fun fact: I like to play videogames like Valorant, CS GO, League of Legends.
 
 ### Connect with me:
 
